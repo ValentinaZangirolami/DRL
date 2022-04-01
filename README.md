@@ -18,10 +18,12 @@ Double Dueling Deep Recurrent Q-Learning on Airsim simulator (Airsim NH environm
 
 ## **References**
 [1] Gimelfarb, M., S. Sanner, and C.-G. Lee, 2020: *ε-BMC: A Bayesian Ensemble Approach to Epsilon-Greedy Exploration in Model-Free Reinforcement Learning*. CoRR 
- 
-[2] Riboni, A., A. Candelieri, and M. Borrotti, 2021: *Deep Autonomous Agents comparison for Self-Driving Cars*. Proceedings of The 7th International Conference on Machine Learning, Optimization and Big Data - LOD 
+
+[2] Juliani A., 2016: *Simple Reinforcement Learning with Tensorflow Part 6: Partial Observability and Deep Recurrent Q-Networks*. URL: https://github.com/awjuliani/DeepRL-Agents
+
+[3] Riboni, A., A. Candelieri, and M. Borrotti, 2021: *Deep Autonomous Agents comparison for Self-Driving Cars*. Proceedings of The 7th International Conference on Machine Learning, Optimization and Big Data - LOD 
   
-[3] *Welcome to AirSim*, https://microsoft.github.io/AirSim/
+[4] *Welcome to AirSim*, https://microsoft.github.io/AirSim/
 ## **Acknowledgements**
 I acknowledge Data Science Lab of Department of Economics, Management and Statistics (DEMS) of University of Milan-Bicocca for providing a virtual machine.
 
