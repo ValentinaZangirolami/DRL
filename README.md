@@ -4,10 +4,10 @@
 
 ## **Description**
 
-This repo contains an implementation of Double Dueling Deep Recurrent Q-Network which can be enhanced with several exploration strategies, like deterministic epsilon-greedy, adaptive epsilon-greedy (VDBE and BMC), softmax, max-boltzmann exploration and VDBE-softmax, and an error masking strategy [2], [4]. 
+This repo contains an implementation of Double Dueling Deep Recurrent Q-Network which can be enhanced with several exploration strategies, like deterministic epsilon-greedy, adaptive epsilon-greedy (VDBE and BMC) [1], softmax, max-boltzmann exploration and VDBE-softmax, and an error masking strategy [2], [4]. 
 
 ### **Code Structure:**
-* <code>./AirsimEnv/</code>: folder where the two environments ( <code>AirsimEnv.py</code> and <code>AirsimEnv_9actions.py</code> ) are stored; the former includes five steering angle and the latter nine steering angle. Further, this folder contains:
+* <code>./AirsimEnv/</code>: folder where the two environments ( <code>AirsimEnv.py</code> and <code>AirsimEnv_9actions.py</code> ) are stored; the former includes five steering angles and the latter nine steering angles. Further, this folder contains:
   * <code>DRQN_classes.py</code>: implementation of agent, experience replay, exploration strategies, neural network and connection with AirSim NH are defined
   * <code>bayesian.py</code>: a support for BMC epsilon-greedy
   * <code>final_reward_points.csv</code>: a support for reward calculation (required for env scripts)
