@@ -1,6 +1,4 @@
-# On the exploration-exploitation trade off using deep recurrent reinforcement learning
-
-**Authors:** Valentina Zangirolami and Matteo Borrotti
+# Multi-armed bandit strategies on deep recurrent reinforcement learning
 
 ## **Description**
 
