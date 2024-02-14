@@ -1,4 +1,4 @@
-# Multi-armed bandit strategies on deep recurrent reinforcement learning
+# Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning
 
 ## **Description**
 
