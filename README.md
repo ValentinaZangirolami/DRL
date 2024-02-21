@@ -34,8 +34,7 @@ This repo contains an implementation of Double Dueling Deep Recurrent Q-Network 
  
 ## **How to cite**
 
-Zangirolami, V. and M. Borrotti, 2023: *Impact of multi-armed bandit strategies on deep recurrent reinforcement learning*. ArXiv, 
-https://doi.org/10.48550/arXiv.2310.0833
+Zangirolami, V. and M. Borrotti, 2024: *Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning*. ArXiv, [Paper](https://arxiv.org/abs/2310.08331)
 
 ## **Acknowledgements**
 I acknowledge Data Science Lab of Department of Economics, Management and Statistics (DEMS) of University of Milan-Bicocca for providing a virtual machine.
