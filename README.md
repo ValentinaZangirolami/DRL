@@ -34,7 +34,7 @@ This repo contains an implementation of Double Dueling Deep Recurrent Q-Network 
  
 ## **How to cite**
 
-Zangirolami, V. and M. Borrotti, 2024: *Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning*. ArXiv, [Paper](https://arxiv.org/abs/2310.08331)
+Zangirolami, V. and M. Borrotti, 2024: *Dealing with uncertainty: balancing exploration and exploitation in deep recurrent reinforcement learning*. In: Knowledge-Based Systems 293. [Paper](https://doi.org/10.1016/j.knosys.2024.111663)
 
 ## **Acknowledgements**
 I acknowledge Data Science Lab of Department of Economics, Management and Statistics (DEMS) of University of Milan-Bicocca for providing a virtual machine.
