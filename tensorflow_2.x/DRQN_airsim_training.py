@@ -25,14 +25,14 @@ from AirsimEnv.DRQN_classes import (BATCH_SIZE, DISCOUNT_FACTOR, FRAMES_BETWEEN_
 
 IP = "127.0.0.1"
 PORT = 41451
-TYPE_NETWORK = "DRQN_MBE_3"
+TYPE_NETWORK = ""
 
 LOAD_FROM = None
 random.seed(123)
 np.random.seed(123)
 tf.random.set_seed(123)
 
-SAVE_PATH ="C:/Users/valen/Desktop/magistrale/tesi/csp-drive-rl-master/DRQN/"
+SAVE_PATH =""
 TENSORBOARD_DIR = SAVE_PATH + "tensorboard/"
 
 #SAVE_PATH = DATA_USER + "/DRL/" + TYPE_NETWORK + "/"
