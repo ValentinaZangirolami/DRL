@@ -11,6 +11,7 @@ This repo contains an implementation of Double Dueling Deep Recurrent Q-Network 
   * <code>final_reward_points.csv</code>: a support for reward calculation (required for env scripts)
 * <code>DRQN_airsim_training.py</code>: contains training loop in which all files in the previous points are required (main script for training process)
 * <code>DRQN_evaluation.py</code>: contains training and test evaluation; each subset is defined with a different set of starting points to evaluate the model performance
+* The new implementation in Tensorflow 2.x is now available. You can check the implementation of all exploration strategies in the previous version while see updates of the neural network in the new code. 
 
 ## **Prerequisites**
   * Python 3.7.6 
